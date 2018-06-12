@@ -3,6 +3,8 @@
 
 A simple simulator pushing a configurable amount of text to a socket. Originally implemented by Thor Martin Abrahamsen: https://github.com/thormartin91/twitter-stream
 
+The used DATAFILE can be found here: https://www.dropbox.com/s/flut7z4zmxxljo0/rawTweetsFinal.json?dl=0
+
 # Configuration
 
 | Variable         | Description                                                       |	Values       |
